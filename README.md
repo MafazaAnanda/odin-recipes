@@ -1,1 +1,1 @@
-# odin-recipes
+in this project i will demonstrate some html basic i've learned in this course with odin project.
